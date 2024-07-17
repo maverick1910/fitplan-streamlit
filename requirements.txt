@@ -1,0 +1,14 @@
+python-dotenv==0.21.0
+uvicorn==0.20.0
+fastapi==0.89.1
+pydantic~=1.10.13
+requests~=2.31.0
+python-multipart==0.0.6
+langchain
+langchain-openai
+langchain-community
+langchain-google-genai
+langchain_anthropic
+
+
+
