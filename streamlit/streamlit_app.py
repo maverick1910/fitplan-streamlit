@@ -5,6 +5,10 @@ def trigger_api_request():
     print("API request triggered")
 
 
+st.set_page_config(
+    page_title="FitPlanner",
+)
+
 st.header('FitPlanner', divider='rainbow')
 st.subheader('_An all in one customised nutrition and workout planner_  :sunglasses:')
 
